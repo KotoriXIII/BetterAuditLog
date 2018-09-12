@@ -1,0 +1,30 @@
+{
+	"servers": 
+	[
+		{
+			"name": "You don't need to add anything special here. It is only for reference for you! :)",
+			"guildID": "334226525316579328",
+			"channelID": "487038880978305024"
+		},
+		{
+			"name": "Llama Lounge",
+			"guildID": "446809352339324928",
+			"channelID": "485678226732089366"
+		},
+		{
+			"name": "pandaria",
+			"guildID": "257702494036033536",
+			"channelID": "489262049872969751"
+		}
+	],
+	"dead-servers":
+	[
+		{
+			"name": "Sexy Server",
+			"guildID": "421868026107789314",
+			"channelID": "488941065022341132"
+		}
+	]
+
+
+}
